@@ -54,7 +54,13 @@ Vairables used for modeling:
 
 ### 5.3 Performance Requirements
 
+Depending on the complexity of the analysis the performance of this application will vary from task to task.  Therfore, beyond reasonable constraints performance requirements cannot be stated.
 
+#### 5.3.1 Output Times
+
+##### 5.3.1.1 The general analysis code segments and functions should return an output in less than 5 minutes.
+
+##### 5.3.1.2 Machine learning should return a model in less than 24 hours.
 
 ### 5.4 Environment Requirements
 
