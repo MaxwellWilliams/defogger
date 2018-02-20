@@ -19,6 +19,8 @@ This project is justified for this class because it meets all key requirements. 
 
 ### 5.1 Introduction
 
+Defogger will analyze LAPD crime data in two main components, General Analysis and Machine Learning.  The general analysis component will breakdown and statistically analyze LAPD crime data in both numerical and graphical ways.  The goal of this portion is to identify general trends within the data.  The machine learning component will build models that will charcterize trends within this data for further analysis and prediction.  The goal is to provide models of different subsets and complexity to uncover and predict trends.
+
 ### 5.2 Functional Requirements
 
 #### 5.2.1 General Analysis
