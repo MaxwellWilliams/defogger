@@ -1,7 +1,25 @@
 # Defogger
-**Members (current): Max Williams**
+**Members: Max Williams**
 
 ## 1.0 Project Status Sheets
+
+### Project Status 2/19/2018
+
+#### Accomplishments since last report:
+  - Established environment and software requirements for general analysis.
+  - Setup Jupyter notebook which imports data from the LA City's dataset database.
+  - Broke down crime data based on crime code, providing statistical and grapical analysis.
+  - Broke down the occurances of a specific crime into monthly categories.
+  - Began research for machine leaning with tensorflow, scikit-learn, and deeplearn.js.
+
+#### Scheduled tasks to be done by next report:
+  - Wrap-up a majority of the analysis for the general analysis component.
+  - Determine which machine learning library to build inital models with.
+  - Setup environment for machine learning and begin creating models.
+
+#### Noteworthy risks, concerns, or problems:
+  - Need to learn more about machine learning, and the differences between platforms.
+  - The processing power required for machine learning may require a GPU, which means I will need to buy some hardware and setup my dekstop.
 
 ## 2.0 Preliminary Project Proposal
 
