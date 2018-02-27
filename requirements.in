@@ -1,4 +1,12 @@
+# Managing Requirements
 pip-tools
+
+# Required for Jupyter notebooks and graphing
 jupyter
 pandas
 matplotlib
+
+# Required for machine learning
+NumPy
+SciPy
+scikit-learn
