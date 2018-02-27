@@ -1,0 +1,30 @@
+Defogger Project SRS Evaluation
+===============================
+
+Nice job on this, a very good document.
+
+This is an interesting project, but it needs a bit more "meat" in these
+specifications.  The way it's written, it's a bit too vague.  The intro
+is good, stating fsuccinctly what the project does.  However, examples
+of what I mean by "more meat":
+
+in 5.2.1.1 you specify "general analysis shall run ...... same format."
+
+what is meant by "same format"?  What *IS* the format?
+
+in 5.2.1.3 you specify "general analysis shall provide reusable code"
+
+what is meant by "reusable"?  What *IS* the reusable on?
+
+These are "philosophy of requirements" issues that you can apply in a
+*general* way to nearly all the requirements in the document.  However,
+in the essence of time remaining, I'm assigning full credit to this
+deliverable, for both the initial and the final submissions.
+
+You don't have to do anything further with this document if you don't
+feel the need to do so.
+
+Deliverable D-02: 15% out of 15% = 100% which is an A-plus
+Deliverable D-05:  5% out of  5% = 100% which is an A-plus
+
+Keep up the good work!
