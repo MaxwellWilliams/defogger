@@ -84,9 +84,9 @@ This Software Development Plan provides the details of the planned development f
 
 ### 4.4  Project Schedule
 
-#### 4.4.1 PERT / GANTT Chart
+#### 4.4.1 PERT Chart
 
-
+![PERT Chart](https://github.com/maxwellwilliams/defogger/blob/master/documents/pert_chart.jpg)
 
 #### 4.4.2 Task / Resource Table
 
