@@ -33,6 +33,83 @@ This project is justified for this class because it meets all key requirements. 
 
 ## 4.0 Software Development Plan
 
+### 4.1 Plan Introduction
+
+This Software Development Plan provides the details of the planned development for the defogger project which provides a reusable framework and code segments for the analysis and prediction of LAPD crime data.
+
+#### 4.1.1 Project Deliverables
+
+- Project Proposal Document
+  - A document proposing the project, identifying its scope, core components, and justification.
+- Requirements Document
+  - A document which will identify the functional, performance, and environment requirements for this completed project, and the degree to which each requirement needs to be meet.
+- Software Development Plan
+  - A document which will describe the development processes and documents that will be used while completing this project.
+- Defogger
+  - The product delieverd as specified by the Project Proposal, Requirements, and Software Development documents.
+- Presentaion of Defogger
+  - A presentation and poster of Defogger, summarizing the requirements of the project and highlighting its functionality.  Demonstrations of defogger may also be included in this presentation.
+  
+### 4.2  Project Resources
+
+#### 4.2.1 Hardware Resources
+
+- Laptop or Desktop with sufficient memory and computation power to store the entire dataset, and run calculations ranging from simple to complex using it.
+
+#### 4.2.2 Software Resources
+
+- Atom text editor (or equivalent)
+- Python3
+- pip3
+- virtualenv
+- jupyter
+- pandas
+- matplotlib
+- scikit-learn
+- tensorflow
+
+### 4.3  Project Organization
+
+- Dataset Research
+  - Research potential datasets (Crime Data, Flu Data, Census Data), and determine which data can be easily and reliably obtained for this project.
+  - Implement python script for collecting this data.
+- General Analysis
+  - Research tools such as jupyter, pandas, and matplotlib.
+  - Using the dataset collected in the previous section, implement reusable functions which calculates and visualizes varying distributions of this crime data.  (Reusable means this code can be re-run with an updated dataset as long as it is in the same format.)
+  - The goal of this section is to build the tools to illustrate and identify trends within the dataset, and identify some trends within the dataset.
+- Machine Learning
+  - Resarch machine learning tools such as scikit-learn and tensorflow.
+  - Using the dataset collected in the first section, implement reusable machine learning functions which identify trends within the dataset, and are able to provide some level of prediction of future crime data.  (Reusable means this code can be re-run with an updated dataset as long as it is in the same format.)
+  - The goal of this section is to identify as many trends within the data as possible, and use them to predict future trends or datasets.
+
+### 4.4  Project Schedule
+
+#### 4.4.1 PERT / GANTT Chart
+
+
+
+#### 4.4.2 Task / Resource Table
+
+- Dataset Research
+  - Sufficient laptop/desktop with internet access
+  - python3 / pip3
+  - virtualenv
+- General Analysis
+  - Sufficient laptop/desktop with internet access
+  - Dataset Research
+  - python3 / pip3
+  - virtualenv
+  - jupyter
+  - pandas
+  - matplotlib
+- Machine Learning
+  - Sufficient laptop/desktop with internet access
+  - Dataset Research
+  - python3 / pip3
+  - virtualenv
+  - scikit-learn
+  - tensorflow
+
 ## 5.0 Requirements Document
 
 ### 5.1 Introduction
